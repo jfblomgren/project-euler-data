@@ -20,6 +20,12 @@ Problems with extra attachments (text files, images) also have an additional
 Said resources can be found in the `resources` directory.
 
 
+Contributing
+============
+Please read `CONTRIBUTING.md` for information on how you can contribute to this
+project.
+
+
 Acknowledgements
 ================
 All problem descriptions are courtesy of the
