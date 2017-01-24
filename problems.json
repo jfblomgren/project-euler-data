@@ -1814,7 +1814,7 @@
         "description": "The first number n for which \u03c6(n)=13! is 6227180929.\n\nFind the 150,000th such number.",
         "answer": "23507044290",
         "difficulty": 70,
-        "name": "Numbers for which Euler\u2019s totient function equals 13!",
+        "name": "Numbers for which Euler's totient function equals 13!",
         "id": 248
     },
     {
@@ -2330,7 +2330,7 @@
             "312_sierpinsky8t.gif"
         ],
         "difficulty": 50,
-        "name": "Cyclic paths on Sierpi\u0144ski graphs",
+        "name": "Cyclic paths on Sierpinski graphs",
         "id": 312
     },
     {
